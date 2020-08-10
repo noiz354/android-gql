@@ -1,0 +1,3 @@
+include ':gql'
+include ':app'
+rootProject.name = "Graphql"
